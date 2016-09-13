@@ -1,2 +1,2 @@
 # resume-website-parserFriendly
-This is my resume in another format. This format is a parser/computer-friendly version of my designed resume. This version can be parsed easily by most software.
+This is my resume in another format. This format is a parser/computer-friendly version of my designed resume. This version can be parsed easily by most software, while the other version (designed version) is not parsed correctly most of the cases. My designed version is done in Photoshop. If you want to be impress, please check my designed version! But this is no wrong decision regardless what resume to look at.
